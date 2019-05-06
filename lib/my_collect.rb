@@ -1,7 +1,3 @@
-def my_collect(empty_array) do |x|
-
-end
-
 def my_collect(collection)
   i = 0
   new_collection = []
